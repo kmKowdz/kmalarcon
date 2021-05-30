@@ -1,9 +1,4 @@
-Project URL: https://kmkowdz.github.io/kmalarcon/
-
-
-[some text here]
-
-
+Project URL: https://kmkowdz.github.io/kmalarcon
 
 Credits:
 Theme Name: DevFolio
